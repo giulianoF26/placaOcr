@@ -13,32 +13,27 @@ Pipeline completo de **detecção, segmentação e reconhecimento** de placas ve
 **Observação importante:** as imagens possuem uma **marca d'água digital** (`BRASIL MERCOSUL` repetida em tom médio-cinza ~80–150) sobreposta à região branca dos caracteres, o que dificulta a binarização e reduz a acurácia do OCR convencional.
 
 ## Estrutura do Projeto
-
-```
-plate_ocr/
-├── images/                      # Dataset: 20 imagens JPG
-├── results_tesseract/
-│   ├── resultados_tesseract.txt # Resultados em texto (tabela)
+placaOcr/
+├── imagens/                          # Dataset: 20 imagens JPG
+├── resultados_tesseract/
+│   ├── resultados_tesseract.txt      # Resultados em texto (tabela)
 │   └── resultados_tesseract.json
-├── results_easyocr/
-│   ├── resultados_easyocr.txt   # Resultados em texto (tabela)
+├── resultados_easyocr/
+│   ├── resultados_easyocr.txt        # Resultados em texto (tabela)
 │   └── resultados_easyocr.json
-├── run_tesseract.py             # Pipeline Tesseract (completo, executável)
-├── run_easyocr.py               # Pipeline EasyOCR  (completo, executável)
-├── pipeline_tesseract.py        # Versão modular com utils/
-├── pipeline_easyocr.py          # Versão modular com utils/
+├── run_tesseract.py                  # Pipeline Tesseract (completo, executável)
+├── run_easyocr.py                    # Pipeline EasyOCR  (completo, executável)
+├── pipeline_tesseract.py             # Versão modular com utils/
+├── pipeline_easyocr.py               # Versão modular com utils/
 ├── utils/
-│   ├── __init__.py
-│   └── preprocessing.py         # Funções compartilhadas de pré-processamento
+│   ├── init.py
+│   └── preprocessing.py              # Funções compartilhadas de pré-processamento
 └── README.md
-```
 
 ## Pipeline — Etapas
-
-```
 Imagem
-  │
-  ▼
+│
+▼
 ┌─────────────────────────────────────────────────────────────────┐
 │ ETAPA 1 – DETECÇÃO DA PLACA (3 estratégias encadeadas)          │
 │                                                                   │
@@ -46,8 +41,8 @@ Imagem
 │  2. Faixa azul Mercosul: HSV hue 90–130, componente horizontal   │
 │  3. Alto contraste: varredura de linhas com std > 40             │
 └─────────────────────────────────────────────────────────────────┘
-  │ ROI da placa
-  ▼
+│ ROI da placa
+▼
 ┌─────────────────────────────────────────────────────────────────┐
 │ ETAPA 2 – PRÉ-PROCESSAMENTO (múltiplas variantes)               │
 │                                                                   │
@@ -57,8 +52,8 @@ Imagem
 │  · Threshold fixo        th=60/75/90/105                         │
 │  · CLAHE + Otsu          (equalização adaptativa de histograma)  │
 └─────────────────────────────────────────────────────────────────┘
-  │ Imagens binarizadas
-  ▼
+│ Imagens binarizadas
+▼
 ┌─────────────────────────────────────────────────────────────────┐
 │ ETAPA 3 – OCR                                                    │
 │                                                                   │
@@ -66,18 +61,17 @@ Imagem
 │  EasyOCR:  CRAFT (detector) + CRNN (reconhecedor)               │
 │            → imagem colorida + variantes binarizadas             │
 └─────────────────────────────────────────────────────────────────┘
-  │ Lista de candidatos
-  ▼
+│ Lista de candidatos
+▼
 ┌─────────────────────────────────────────────────────────────────┐
 │ ETAPA 4 – SELEÇÃO DO MELHOR RESULTADO                           │
 │                                                                   │
 │  Tesseract: votação por maioria entre resultados de 7 chars      │
 │  EasyOCR:  seleção por maior confiança; fusão de fragmentos      │
 └─────────────────────────────────────────────────────────────────┘
-  │
-  ▼
+│
+▼
 Texto da placa + metadados
-```
 
 ## Como Executar
 
@@ -85,13 +79,13 @@ Texto da placa + metadados
 ```bash
 # Instalar dependências
 pip install opencv-python pytesseract pillow numpy
-# Ubuntu/Debian: sudo apt install tesseract-ocr
+# Windows: baixar instalador em https://github.com/UB-Mannheim/tesseract/wiki
 
 # Executar
-python run_tesseract.py --images ./images --output ./results_tesseract
+python run_tesseract.py --images ./imagens --output ./resultados_tesseract
 
 # Com imagens de debug (ROIs salvas)
-python run_tesseract.py --images ./images --output ./results_tesseract --debug
+python run_tesseract.py --images ./imagens --output ./resultados_tesseract --debug
 ```
 
 ### EasyOCR
@@ -100,7 +94,7 @@ python run_tesseract.py --images ./images --output ./results_tesseract --debug
 pip install easyocr torch torchvision opencv-python numpy
 
 # Executar
-python run_easyocr.py --images ./images --output ./results_easyocr
+python run_easyocr.py --images ./imagens --output ./resultados_easyocr
 ```
 
 ## Comparação Tesseract vs EasyOCR
@@ -131,10 +125,10 @@ que normaliza o fundo localmente, reduzindo o efeito do watermark uniforme.
 ## Resultados
 
 Os resultados detalhados estão em:
-- `results_tesseract/resultados_tesseract.txt`
-- `results_easyocr/resultados_easyocr.txt`
+- `resultados_tesseract/resultados_tesseract.txt`
+- `resultados_easyocr/resultados_easyocr.txt`
 
-O EasyOCR tende a ter melhor desempenho neste dataset por:
+O EasyOCR teve melhor desempenho neste dataset (15/20 válidas vs 10/20 do Tesseract) por:
 1. Processar a imagem colorida (chars escuros em fundo cinza-watermark)
 2. Usar detector neural (CRAFT) menos sensível a ruído uniforme
 3. Retornar confiança que permite selecionar a leitura mais confiável

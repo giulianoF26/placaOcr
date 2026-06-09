@@ -2,46 +2,38 @@
   {
     "arquivo": "1.JPG",
     "metodo": "alto_contraste",
-    "texto": "LHALIYS",
+    "texto": "LHALTSYD",
     "valida": false,
     "candidatos": [
-      "PE25ALISZS",
-      "JALIZS",
-      "LHALIYS",
-      "SEPOREYPUY",
-      "ELFALIYSV",
-      "JALIDSS",
-      "LHALIYD",
+      "RPEUCCCSD",
+      "LHALTSYD",
+      "S2CALIYSZ",
       "ELFALIYS",
-      "2QTF",
-      "ELFALIVYSV",
-      "S27CALISS",
-      "SEPOAEYU"
+      "SEPOAREYSU",
+      "JALISS",
+      "S2CALISSZ"
     ]
   },
   {
     "arquivo": "2.JPG",
     "metodo": "moldura_escura",
-    "texto": "LNEVACGSI",
+    "texto": "LNEV1CG8I",
     "valida": false,
     "candidatos": [
-      "ANEVICGSJ",
-      "PNEVAICGSI",
-      "TNEV1ICGS",
-      "AANEVICGS",
-      "JNEVAICGSI",
-      "NEV1ICUS",
-      "JNEVACGSI",
-      "RE2GSI",
-      "WNEVICGS8I",
       "ENEVACGS",
-      "JNEVAICGS",
-      "WNEVACGS",
+      "NEV1ICUS",
+      "RE20UI",
+      "RE2GSI",
+      "ANEVICGS",
       "LNEVACGSI",
-      "E20GSI",
-      "THEVACUS",
+      "TNEV1ICUS",
+      "ANEVICGSJ",
+      "JNEVAICGSI",
       "PNEVACGS",
-      "WMEVACGSI"
+      "LNEVACGS8I",
+      "JNEVACGSI",
+      "LMEVACGSI",
+      "LNEV1CG8I"
     ]
   },
   {
@@ -50,7 +42,9 @@
     "texto": "LYZ2218",
     "valida": true,
     "candidatos": [
+      "LYZ2Z18",
       "LYZ2218",
+      "LVZ22418",
       "WLYZ2Z18",
       "LVZ2218",
       "LVZ2248"
@@ -59,59 +53,59 @@
   {
     "arquivo": "4.JPG",
     "metodo": "moldura_escura",
-    "texto": "PTMTF",
+    "texto": "PTRTFS",
     "valida": false,
     "candidatos": [
-      "TNTF",
       "PQOWING7",
-      "1QOW9NG7",
-      "PGOWSN4G7F",
-      "ONON7",
-      "TNTFS",
-      "PTMTF",
+      "PGOWONG7F",
+      "TSNTF",
+      "SOTNTF",
+      "PTRTFS",
+      "TNTF",
+      "POONSNG7",
+      "PTRETF",
       "PGOWSNG7F",
-      "PUONSNG7",
-      "PONON7",
-      "TRTF",
-      "TOON7",
-      "POONSNG7"
+      "ONON7",
+      "1QOW9NG7"
     ]
   },
   {
     "arquivo": "5.JPG",
     "metodo": "moldura_escura",
-    "texto": "SQFSZ73",
+    "texto": "O9688SZ",
     "valida": false,
     "candidatos": [
-      "STSSTRFSSM",
-      "SBRASIL",
-      "PASSOS698S",
-      "SESS8SZ",
-      "FSZN5S74",
-      "SSCC",
-      "SQFSZ73",
-      "GABEESB",
+      "GFSZ",
+      "PSSOS6S8S",
       "ABSESB",
-      "USSZ",
-      "O96S8SZ",
-      "FSZCEJ7"
+      "AS5QFSZ",
+      "FSZNLSY",
+      "BRASIL",
+      "EESCS",
+      "TRFSSY",
+      "O9688SZ",
+      "PBASSAESES",
+      "BABSESBS",
+      "SQGFSZ",
+      "FSZNLS4"
     ]
   },
   {
     "arquivo": "6.JPG",
     "metodo": "moldura_escura",
-    "texto": "EYLSX7D",
+    "texto": "TYLSX75",
     "valida": false,
     "candidatos": [
-      "YLSX75",
-      "EVYLSATS",
+      "TYLSX75",
+      "PYLSX7D",
+      "VYSK7S",
       "MECEES",
-      "TYELSX75",
-      "EYLSX7D",
-      "EVYLSK7S",
-      "EYLSX73I",
-      "TYLSX795",
-      "TYLSX75"
+      "YLSX75",
+      "EVYSX7S",
+      "TYLSX73",
+      "PTYLSX75",
+      "FBRASTE",
+      "WTYLSX75"
     ]
   },
   {
@@ -120,16 +114,15 @@
     "texto": "AXQ2I95",
     "valida": true,
     "candidatos": [
-      "XQ2I95",
-      "XQ2Z2I95",
-      "WXG2Z2IO5",
-      "AGXQ2I95",
-      "XQO2Z2I95",
-      "X2I95",
-      "TXQ2I95",
+      "WXGZIO5",
+      "WXG2Z2I95",
+      "XQ2I395",
       "AXQ2I95",
       "XQ2I595",
-      "GXQ2I95"
+      "XQ2Z2I95",
+      "TXQ2I95",
+      "XO2Z2I95",
+      "XQ2I95"
     ]
   },
   {
@@ -138,9 +131,8 @@
     "texto": "XHY6U29",
     "valida": true,
     "candidatos": [
-      "ERCOBACY",
       "XHY6U29",
-      "XHV6U29",
+      "PERCORA",
       "LXHY6U29"
     ]
   },
@@ -150,54 +142,48 @@
     "texto": "AOA4I16",
     "valida": true,
     "candidatos": [
-      "AVOA4I16",
-      "WAOA4I16",
-      "WAGA4I16",
-      "AOA4SI16",
       "AOA4I16",
+      "AOA4SI16",
+      "WAGK4SI46",
       "AAOA4I16",
-      "WAGK4SI76",
-      "WAOA4SI16"
+      "WAGA4LI16",
+      "WAOA4I16",
+      "WAGASLI46",
+      "WAGA4I16",
+      "AAOA4GI16"
     ]
   },
   {
     "arquivo": "10.JPG",
     "metodo": "moldura_escura",
-    "texto": "DU7E22I",
+    "texto": "PBUZE22",
     "valida": false,
     "candidatos": [
-      "LPBUZG22",
-      "PBUZE22",
-      "LPBU7E22",
-      "LPB7G22",
-      "LPDU7G22",
       "LPBU7G22",
-      "DU7E22I",
-      "LPBU7E22I",
-      "WPBUZE22"
+      "LPBU7E22",
+      "PBUZE22",
+      "LPDU7G22"
     ]
   },
   {
     "arquivo": "11.JPG",
     "metodo": "moldura_escura",
-    "texto": "HNL3U98",
+    "texto": "ANL3U98",
     "valida": true,
     "candidatos": [
       "LUNL3U98",
-      "4HNL3U98",
-      "4HNL3U985",
-      "HNL3U98",
-      "LHNEBUOE",
-      "LMNL3U98",
-      "LMNLSUI8",
-      "FMNL3U989",
-      "BMNL3U98J",
-      "LHNLSUIS",
+      "LMNL3U98F",
+      "EMNL3U989",
       "LHNL3U98",
-      "LMNL3U989",
-      "EMNLSUIEJ",
-      "LNNL3U989",
-      "HNL3UI8"
+      "ANL3U98",
+      "LHNL3U985",
+      "LHNEBUOEF",
+      "MNL3U98D",
+      "EMNL3UIEF",
+      "4HNL3U98",
+      "LMNLSU98",
+      "HNL3U985",
+      "LMNLSUI8"
     ]
   },
   {
@@ -206,13 +192,12 @@
     "texto": "JET7G88",
     "valida": true,
     "candidatos": [
-      "L1UGS",
-      "LGGS",
-      "ET7465",
       "LJE17G88",
-      "LJET7G88",
+      "JET7G88",
       "LJET7GS88",
-      "JET7G88"
+      "7465",
+      "LJET7G88",
+      "1UGS"
     ]
   },
   {
@@ -221,16 +206,19 @@
     "texto": "ABP8Q89",
     "valida": true,
     "candidatos": [
-      "ABP8OQ89",
       "LABP38Q89",
-      "LABP8O89",
-      "RELECEDE",
-      "LABPBQB9",
-      "ABP8Q89",
-      "WABP8Q89",
       "AABPSQ89",
+      "AABPSQ82",
+      "AABP8OQ89",
+      "LABP8O89",
+      "ZABP8O89",
+      "RELECEDS",
+      "ABP8Q89",
+      "LABPBQBD",
+      "ABP8OQ89",
+      "ABPBQ89",
       "LABP8Q89",
-      "ABPBQ89"
+      "ZWABP38Q89"
     ]
   },
   {
@@ -239,11 +227,10 @@
     "texto": "PHI8HGG",
     "valida": false,
     "candidatos": [
-      "WPHIBHGE",
-      "PHI8HGG",
-      "PHL8HGG",
       "WPHIB8HGG",
-      "WPHIBHGG"
+      "WPHIBHGG",
+      "PHI8HGG",
+      "WPHIBHGE"
     ]
   },
   {
@@ -252,13 +239,13 @@
     "texto": "THY7E19",
     "valida": true,
     "candidatos": [
+      "ATHY7E49",
       "LTHY7E19",
-      "LTHYZEL9",
-      "LTHY7E29",
-      "THY7E49",
-      "STHY7E19",
       "THY7E19",
-      "LTHYZE29"
+      "LTHYZEL9",
+      "STHY7E19",
+      "LTHY7E29",
+      "THYZE19"
     ]
   },
   {
@@ -267,10 +254,12 @@
     "texto": "UHK5055",
     "valida": true,
     "candidatos": [
+      "LWHK5055",
+      "UHK5055",
       "JUHK5055",
       "LUHK5055",
-      "UHK5055",
-      "LUHK9O5"
+      "UHKS055",
+      "LLUHK5055"
     ]
   },
   {
@@ -279,19 +268,17 @@
     "texto": "NZQ3M77",
     "valida": true,
     "candidatos": [
-      "LNZQ6M77",
-      "LNZQ377J",
-      "LNZQ3N77",
-      "LNZO377J",
-      "LNZQ3H77",
-      "LNZQ3M77J",
+      "NZQ3M77",
       "LNZQSH77",
-      "LNZQ3N77J",
+      "LNZQSM77",
       "NZQSM77",
       "NZQ3H77",
+      "LNZQ3M77J",
+      "LNZQ377J",
+      "LNZQ6M77",
+      "LNZO377J",
       "NZQ377",
-      "NZQ3M77",
-      "LNZQSM77"
+      "LNZQ3N77"
     ]
   },
   {
@@ -300,32 +287,26 @@
     "texto": "XDASESO",
     "valida": false,
     "candidatos": [
-      "LXDA5SESS",
-      "LXBASESO",
-      "XGA5E56I",
-      "XBASESGI",
-      "LXBASE",
-      "LXDASESO",
-      "XDASESO",
-      "LXDASESS",
-      "XGA5ESGI",
       "LXBASESG",
-      "LXBA5E",
-      "XBA5E5GI"
+      "XBA5E5GI",
+      "XBASESGI",
+      "XBA5ESGI",
+      "LXDASESSG",
+      "LXDASESSE",
+      "XDASESO",
+      "LXGA5ESGI",
+      "LXDASESO",
+      "XBASESG"
     ]
   },
   {
     "arquivo": "19.JPG",
     "metodo": "moldura_escura",
-    "texto": "BERONAA",
+    "texto": "BERONA",
     "valida": false,
     "candidatos": [
-      "BERONAA",
-      "BERONAAO",
-      "ET4A",
-      "PORKVTSO",
-      "LLTOLVLO",
-      "EE4A"
+      "AOLS",
+      "BERONA"
     ]
   },
   {
@@ -334,27 +315,11 @@
     "texto": "TRGIDS4",
     "valida": false,
     "candidatos": [
-      "YRS78OA",
-      "TRGIDS4",
-      "TRGIDS4A",
-      "TSEGYF1",
-      "ELGLF1",
-      "ERGY",
-      "ESTS",
-      "LTSS",
-      "BGGIUY",
-      "DPGSI",
-      "BUGGID",
-      "BEGGIY",
-      "WGGLO",
-      "BEGG",
-      "PGGI4",
-      "LGGID44ST",
-      "BLGGI4",
-      "CTGG",
-      "LEGG",
-      "EGGIB4",
-      "BOGGID"
+      "LBGGI4Y",
+      "LGGAD4G4ST",
+      "BERGF",
+      "EGGI4",
+      "TRGIDS4"
     ]
   }
 ]

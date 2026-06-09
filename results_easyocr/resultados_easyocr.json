@@ -1,0 +1,1698 @@
+[
+  {
+    "arquivo": "1.JPG",
+    "metodo": "alto_contraste",
+    "texto": "IFA1T95",
+    "confianca": 0.8789,
+    "valida": true,
+    "candidatos": [
+      {
+        "texto": "BR",
+        "confianca": 1.0
+      },
+      {
+        "texto": "IFA1T95",
+        "confianca": 0.8789
+      },
+      {
+        "texto": "IFHITTS",
+        "confianca": 0.1846
+      },
+      {
+        "texto": "JFAIT95",
+        "confianca": 0.2192
+      },
+      {
+        "texto": "LFHI795",
+        "confianca": 0.3211
+      },
+      {
+        "texto": "IFAI95",
+        "confianca": 0.6826
+      },
+      {
+        "texto": "LFAI95",
+        "confianca": 0.3294
+      },
+      {
+        "texto": "LFAJT95",
+        "confianca": 0.3098
+      },
+      {
+        "texto": "LFAJ95",
+        "confianca": 0.198
+      },
+      {
+        "texto": "1F1T9S",
+        "confianca": 0.4226
+      },
+      {
+        "texto": "IFA1TY5",
+        "confianca": 0.3059
+      },
+      {
+        "texto": "5",
+        "confianca": 0.9989
+      },
+      {
+        "texto": "IFH",
+        "confianca": 0.5857
+      },
+      {
+        "texto": "IFL",
+        "confianca": 0.8049
+      },
+      {
+        "texto": "IFA095",
+        "confianca": 0.3936
+      },
+      {
+        "texto": "IFA015",
+        "confianca": 0.1772
+      },
+      {
+        "texto": "IFA0955",
+        "confianca": 0.6962
+      },
+      {
+        "texto": "IFA0155",
+        "confianca": 0.5881
+      }
+    ]
+  },
+  {
+    "arquivo": "2.JPG",
+    "metodo": "moldura_escura",
+    "texto": "NEVTCO8",
+    "confianca": 0.7866,
+    "valida": false,
+    "candidatos": [
+      {
+        "texto": "BR",
+        "confianca": 1.0
+      },
+      {
+        "texto": "BRASIL",
+        "confianca": 0.6212
+      },
+      {
+        "texto": "NEVICO8",
+        "confianca": 0.4127
+      },
+      {
+        "texto": "NWCO8",
+        "confianca": 0.8388
+      },
+      {
+        "texto": "COT",
+        "confianca": 0.2342
+      },
+      {
+        "texto": "0RASIL",
+        "confianca": 0.8123
+      },
+      {
+        "texto": "NWZCO8",
+        "confianca": 0.7333
+      },
+      {
+        "texto": "SACOO",
+        "confianca": 0.0918
+      },
+      {
+        "texto": "NEVTO8",
+        "confianca": 0.2152
+      },
+      {
+        "texto": "BR4SIL",
+        "confianca": 0.1778
+      },
+      {
+        "texto": "DRASIL",
+        "confianca": 0.3171
+      },
+      {
+        "texto": "NVICO8",
+        "confianca": 0.3975
+      },
+      {
+        "texto": "BRAI",
+        "confianca": 0.3638
+      },
+      {
+        "texto": "NEWCO8",
+        "confianca": 0.4484
+      },
+      {
+        "texto": "BRASI",
+        "confianca": 0.217
+      },
+      {
+        "texto": "EA4",
+        "confianca": 0.1486
+      },
+      {
+        "texto": "NEVC08",
+        "confianca": 0.6462
+      },
+      {
+        "texto": "0EAV",
+        "confianca": 0.0564
+      },
+      {
+        "texto": "NEXIB",
+        "confianca": 0.2626
+      },
+      {
+        "texto": "NEMI8",
+        "confianca": 0.2178
+      },
+      {
+        "texto": "0Q",
+        "confianca": 0.3808
+      },
+      {
+        "texto": "NEWICO8",
+        "confianca": 0.5981
+      },
+      {
+        "texto": "0RAS1L",
+        "confianca": 0.3623
+      },
+      {
+        "texto": "NVIO8",
+        "confianca": 0.2211
+      },
+      {
+        "texto": "NEVTCO8",
+        "confianca": 0.7866
+      },
+      {
+        "texto": "RASIL",
+        "confianca": 0.6877
+      }
+    ]
+  },
+  {
+    "arquivo": "3.JPG",
+    "metodo": "moldura_escura",
+    "texto": "IVZ2Z18",
+    "confianca": 0.9571,
+    "valida": true,
+    "candidatos": [
+      {
+        "texto": "BR",
+        "confianca": 1.0
+      },
+      {
+        "texto": "BRASIL",
+        "confianca": 0.9145
+      },
+      {
+        "texto": "MERCOSU",
+        "confianca": 0.5499
+      },
+      {
+        "texto": "YZ2218",
+        "confianca": 0.348
+      },
+      {
+        "texto": "IZ2Z1",
+        "confianca": 0.622
+      },
+      {
+        "texto": "AF0CO5",
+        "confianca": 0.0838
+      },
+      {
+        "texto": "VZ2Z",
+        "confianca": 0.4711
+      },
+      {
+        "texto": "MFRCOSL",
+        "confianca": 0.1148
+      },
+      {
+        "texto": "NFRCOS",
+        "confianca": 0.3478
+      },
+      {
+        "texto": "TZ2ZZ",
+        "confianca": 0.656
+      },
+      {
+        "texto": "AFRCOSLI",
+        "confianca": 0.2839
+      },
+      {
+        "texto": "IZ2218",
+        "confianca": 0.4301
+      },
+      {
+        "texto": "AFRCOSLL",
+        "confianca": 0.2551
+      },
+      {
+        "texto": "TZZZZ",
+        "confianca": 0.2201
+      },
+      {
+        "texto": "HFRCOILL",
+        "confianca": 0.1437
+      },
+      {
+        "texto": "IZ2Z18",
+        "confianca": 0.8949
+      },
+      {
+        "texto": "MFRCOL",
+        "confianca": 0.5036
+      },
+      {
+        "texto": "IVZZZZ",
+        "confianca": 0.4116
+      },
+      {
+        "texto": "HFRCOLL",
+        "confianca": 0.2544
+      },
+      {
+        "texto": "MERCOS",
+        "confianca": 0.3618
+      },
+      {
+        "texto": "IVZ2Z18",
+        "confianca": 0.9571
+      },
+      {
+        "texto": "MFRCOSI",
+        "confianca": 0.2213
+      },
+      {
+        "texto": "8AAS1L",
+        "confianca": 0.2624
+      },
+      {
+        "texto": "BRAS1L",
+        "confianca": 0.2626
+      },
+      {
+        "texto": "HFRCO5I",
+        "confianca": 0.4611
+      },
+      {
+        "texto": "BRASTL",
+        "confianca": 0.7327
+      },
+      {
+        "texto": "HFRCOS",
+        "confianca": 0.5507
+      },
+      {
+        "texto": "IVZZZ78",
+        "confianca": 0.2549
+      }
+    ]
+  },
+  {
+    "arquivo": "4.JPG",
+    "metodo": "moldura_escura",
+    "texto": "QOW9N47",
+    "confianca": 0.5494,
+    "valida": true,
+    "candidatos": [
+      {
+        "texto": "QOWIZ",
+        "confianca": 0.5991
+      },
+      {
+        "texto": "QOWONLZ",
+        "confianca": 0.3642
+      },
+      {
+        "texto": "QOWON4Z",
+        "confianca": 0.5171
+      },
+      {
+        "texto": "QOWINLZ",
+        "confianca": 0.4628
+      },
+      {
+        "texto": "QOWIN4Z",
+        "confianca": 0.5443
+      },
+      {
+        "texto": "QO19N7",
+        "confianca": 0.3465
+      },
+      {
+        "texto": "QOW9N47",
+        "confianca": 0.5494
+      },
+      {
+        "texto": "QOW9NL7",
+        "confianca": 0.8486
+      },
+      {
+        "texto": "QO9NL7",
+        "confianca": 0.5104
+      },
+      {
+        "texto": "QOWN47",
+        "confianca": 0.9644
+      },
+      {
+        "texto": "QO19M47",
+        "confianca": 0.2856
+      },
+      {
+        "texto": "EQOQN4Z",
+        "confianca": 0.059
+      },
+      {
+        "texto": "QONINLZ",
+        "confianca": 0.32
+      },
+      {
+        "texto": "QOWON67",
+        "confianca": 0.2323
+      }
+    ]
+  },
+  {
+    "arquivo": "5.JPG",
+    "metodo": "moldura_escura",
+    "texto": "USI3213",
+    "confianca": 0.5917,
+    "valida": true,
+    "candidatos": [
+      {
+        "texto": "BR",
+        "confianca": 0.9987
+      },
+      {
+        "texto": "00732",
+        "confianca": 0.2153
+      },
+      {
+        "texto": "BR4JL",
+        "confianca": 0.1599
+      },
+      {
+        "texto": "USQ",
+        "confianca": 0.8223
+      },
+      {
+        "texto": "132",
+        "confianca": 0.7393
+      },
+      {
+        "texto": "0040",
+        "confianca": 0.0631
+      },
+      {
+        "texto": "4",
+        "confianca": 0.7237
+      },
+      {
+        "texto": "USD4TZ2",
+        "confianca": 0.1486
+      },
+      {
+        "texto": "USI32",
+        "confianca": 0.444
+      },
+      {
+        "texto": "S0",
+        "confianca": 0.6938
+      },
+      {
+        "texto": "6748L",
+        "confianca": 0.1993
+      },
+      {
+        "texto": "USQ132",
+        "confianca": 0.0863
+      },
+      {
+        "texto": "304LS",
+        "confianca": 0.108
+      },
+      {
+        "texto": "1R",
+        "confianca": 0.2268
+      },
+      {
+        "texto": "0048L",
+        "confianca": 0.1449
+      },
+      {
+        "texto": "0R451L",
+        "confianca": 0.0623
+      },
+      {
+        "texto": "0RA8L",
+        "confianca": 0.5825
+      },
+      {
+        "texto": "QE3",
+        "confianca": 0.1873
+      },
+      {
+        "texto": "LR",
+        "confianca": 0.1716
+      },
+      {
+        "texto": "USUIZ",
+        "confianca": 0.126
+      },
+      {
+        "texto": "USQ0073",
+        "confianca": 0.5188
+      },
+      {
+        "texto": "USQ0040",
+        "confianca": 0.4427
+      },
+      {
+        "texto": "USQ6748",
+        "confianca": 0.5108
+      },
+      {
+        "texto": "USQ0048",
+        "confianca": 0.4836
+      },
+      {
+        "texto": "USI3213",
+        "confianca": 0.5917
+      },
+      {
+        "texto": "USQ1324",
+        "confianca": 0.405
+      },
+      {
+        "texto": "USQ1321",
+        "confianca": 0.1565
+      }
+    ]
+  },
+  {
+    "arquivo": "6.JPG",
+    "metodo": "moldura_escura",
+    "texto": "BRC3X75",
+    "confianca": 0.6359,
+    "valida": true,
+    "candidatos": [
+      {
+        "texto": "BR",
+        "confianca": 1.0
+      },
+      {
+        "texto": "BRASIL",
+        "confianca": 0.9301
+      },
+      {
+        "texto": "TML3XZ5",
+        "confianca": 0.5705
+      },
+      {
+        "texto": "HERCOS",
+        "confianca": 0.1106
+      },
+      {
+        "texto": "TVZZE",
+        "confianca": 0.2183
+      },
+      {
+        "texto": "TTCSIL",
+        "confianca": 0.1124
+      },
+      {
+        "texto": "387E",
+        "confianca": 0.1194
+      },
+      {
+        "texto": "C3X75",
+        "confianca": 0.2719
+      },
+      {
+        "texto": "3875",
+        "confianca": 0.4668
+      },
+      {
+        "texto": "MCRCOIU",
+        "confianca": 0.2181
+      },
+      {
+        "texto": "MURCOL",
+        "confianca": 0.3117
+      },
+      {
+        "texto": "7YL3XZ5",
+        "confianca": 0.0711
+      },
+      {
+        "texto": "5",
+        "confianca": 1.0
+      },
+      {
+        "texto": "MURCO",
+        "confianca": 0.4514
+      },
+      {
+        "texto": "S3X",
+        "confianca": 0.2655
+      },
+      {
+        "texto": "MRCO",
+        "confianca": 0.601
+      },
+      {
+        "texto": "Y3ZS",
+        "confianca": 0.287
+      },
+      {
+        "texto": "I3X",
+        "confianca": 0.6162
+      },
+      {
+        "texto": "MCRCO",
+        "confianca": 0.2818
+      },
+      {
+        "texto": "TVL3ZS",
+        "confianca": 0.6149
+      },
+      {
+        "texto": "8RASTL",
+        "confianca": 0.2104
+      },
+      {
+        "texto": "MAC5Y",
+        "confianca": 0.1236
+      },
+      {
+        "texto": "X76",
+        "confianca": 0.7031
+      },
+      {
+        "texto": "TYL",
+        "confianca": 0.3559
+      },
+      {
+        "texto": "BR441L",
+        "confianca": 0.3347
+      },
+      {
+        "texto": "1",
+        "confianca": 0.1859
+      },
+      {
+        "texto": "MLC2",
+        "confianca": 0.141
+      },
+      {
+        "texto": "LL",
+        "confianca": 0.1102
+      },
+      {
+        "texto": "TYL3XZS",
+        "confianca": 0.7107
+      },
+      {
+        "texto": "BRASL",
+        "confianca": 0.6328
+      },
+      {
+        "texto": "BRC3X75",
+        "confianca": 0.6359
+      },
+      {
+        "texto": "TYL3875",
+        "confianca": 0.4114
+      },
+      {
+        "texto": "MLC2387",
+        "confianca": 0.3039
+      },
+      {
+        "texto": "MLC2X76",
+        "confianca": 0.4221
+      },
+      {
+        "texto": "LLC3X75",
+        "confianca": 0.1911
+      }
+    ]
+  },
+  {
+    "arquivo": "7.JPG",
+    "metodo": "moldura_escura",
+    "texto": "BRG2525",
+    "confianca": 0.8492,
+    "valida": true,
+    "candidatos": [
+      {
+        "texto": "BR",
+        "confianca": 1.0
+      },
+      {
+        "texto": "BRAML",
+        "confianca": 0.9355
+      },
+      {
+        "texto": "GX02J25",
+        "confianca": 0.3514
+      },
+      {
+        "texto": "0R40",
+        "confianca": 0.3624
+      },
+      {
+        "texto": "EXO725",
+        "confianca": 0.1695
+      },
+      {
+        "texto": "GXO2J23",
+        "confianca": 0.2834
+      },
+      {
+        "texto": "D048L",
+        "confianca": 0.242
+      },
+      {
+        "texto": "GO425",
+        "confianca": 0.2408
+      },
+      {
+        "texto": "GXQ225",
+        "confianca": 0.3475
+      },
+      {
+        "texto": "0R48IL",
+        "confianca": 0.3024
+      },
+      {
+        "texto": "GX02425",
+        "confianca": 0.4158
+      },
+      {
+        "texto": "G2525",
+        "confianca": 0.6984
+      },
+      {
+        "texto": "10",
+        "confianca": 0.1221
+      },
+      {
+        "texto": "XBR",
+        "confianca": 0.8201
+      },
+      {
+        "texto": "G02J6",
+        "confianca": 0.3171
+      },
+      {
+        "texto": "GXQ2J25",
+        "confianca": 0.2383
+      },
+      {
+        "texto": "602425",
+        "confianca": 0.1397
+      },
+      {
+        "texto": "GXO2425",
+        "confianca": 0.3176
+      },
+      {
+        "texto": "00A0L",
+        "confianca": 0.1548
+      },
+      {
+        "texto": "GQ425",
+        "confianca": 0.601
+      },
+      {
+        "texto": "3RA0L",
+        "confianca": 0.2673
+      },
+      {
+        "texto": "GO2J26",
+        "confianca": 0.3575
+      },
+      {
+        "texto": "3R4M",
+        "confianca": 0.1839
+      },
+      {
+        "texto": "RA54L",
+        "confianca": 0.2619
+      },
+      {
+        "texto": "BRG2525",
+        "confianca": 0.8492
+      },
+      {
+        "texto": "EXO7251",
+        "confianca": 0.1458
+      },
+      {
+        "texto": "GXQ2251",
+        "confianca": 0.2348
+      },
+      {
+        "texto": "XBR0R40",
+        "confianca": 0.5912
+      }
+    ]
+  },
+  {
+    "arquivo": "8.JPG",
+    "metodo": "moldura_escura",
+    "texto": "XHY6429",
+    "confianca": 0.918,
+    "valida": true,
+    "candidatos": [
+      {
+        "texto": "BR",
+        "confianca": 1.0
+      },
+      {
+        "texto": "BRASIL",
+        "confianca": 0.9962
+      },
+      {
+        "texto": "HIACOS",
+        "confianca": 0.4551
+      },
+      {
+        "texto": "XHY6429",
+        "confianca": 0.918
+      },
+      {
+        "texto": "XHV6429",
+        "confianca": 0.859
+      },
+      {
+        "texto": "RR",
+        "confianca": 0.9994
+      },
+      {
+        "texto": "MMCOT",
+        "confianca": 0.2498
+      },
+      {
+        "texto": "HMCOLA",
+        "confianca": 0.6771
+      },
+      {
+        "texto": "XHY6U29",
+        "confianca": 0.7964
+      },
+      {
+        "texto": "HFACOT",
+        "confianca": 0.273
+      },
+      {
+        "texto": "HFACOTL",
+        "confianca": 0.4088
+      },
+      {
+        "texto": "MGACOT",
+        "confianca": 0.0803
+      },
+      {
+        "texto": "XHV6U29",
+        "confianca": 0.4853
+      },
+      {
+        "texto": "MFACOTLL",
+        "confianca": 0.1265
+      },
+      {
+        "texto": "HFCO",
+        "confianca": 0.468
+      },
+      {
+        "texto": "XHV6129",
+        "confianca": 0.4427
+      },
+      {
+        "texto": "XHY6129",
+        "confianca": 0.7144
+      }
+    ]
+  },
+  {
+    "arquivo": "9.JPG",
+    "metodo": "moldura_escura",
+    "texto": "AOA4J16",
+    "confianca": 0.9581,
+    "valida": true,
+    "candidatos": [
+      {
+        "texto": "BR",
+        "confianca": 1.0
+      },
+      {
+        "texto": "BRASIL",
+        "confianca": 0.9875
+      },
+      {
+        "texto": "A0A4J16",
+        "confianca": 0.9252
+      },
+      {
+        "texto": "A0ALJ16",
+        "confianca": 0.2219
+      },
+      {
+        "texto": "SBR",
+        "confianca": 0.7332
+      },
+      {
+        "texto": "AOA4J16",
+        "confianca": 0.9581
+      },
+      {
+        "texto": "AFECOUA",
+        "confianca": 0.1236
+      },
+      {
+        "texto": "RASIL",
+        "confianca": 0.1321
+      },
+      {
+        "texto": "AA4J16",
+        "confianca": 0.9969
+      },
+      {
+        "texto": "ECOS",
+        "confianca": 0.2777
+      },
+      {
+        "texto": "400J16",
+        "confianca": 0.2201
+      },
+      {
+        "texto": "40A2J16",
+        "confianca": 0.5225
+      },
+      {
+        "texto": "64J",
+        "confianca": 0.0765
+      },
+      {
+        "texto": "6RAJIL",
+        "confianca": 0.1327
+      }
+    ]
+  },
+  {
+    "arquivo": "10.JPG",
+    "metodo": "moldura_escura",
+    "texto": "PDU7G22",
+    "confianca": 0.9223,
+    "valida": true,
+    "candidatos": [
+      {
+        "texto": "BR",
+        "confianca": 0.9994
+      },
+      {
+        "texto": "BRASIL",
+        "confianca": 0.655
+      },
+      {
+        "texto": "PD42G22",
+        "confianca": 0.2604
+      },
+      {
+        "texto": "PDZG22",
+        "confianca": 0.6399
+      },
+      {
+        "texto": "PDU7G22",
+        "confianca": 0.9223
+      },
+      {
+        "texto": "PD47G22",
+        "confianca": 0.8814
+      },
+      {
+        "texto": "P0W7G22",
+        "confianca": 0.3015
+      },
+      {
+        "texto": "PDW7G22",
+        "confianca": 0.5732
+      },
+      {
+        "texto": "8RASI",
+        "confianca": 0.8369
+      },
+      {
+        "texto": "PDUG22",
+        "confianca": 0.5971
+      },
+      {
+        "texto": "PDUZG22",
+        "confianca": 0.8203
+      },
+      {
+        "texto": "BRAS1L",
+        "confianca": 0.335
+      },
+      {
+        "texto": "742G22",
+        "confianca": 0.7524
+      },
+      {
+        "texto": "726I",
+        "confianca": 0.5307
+      },
+      {
+        "texto": "PPUZG22",
+        "confianca": 0.5843
+      },
+      {
+        "texto": "B84M",
+        "confianca": 0.1623
+      }
+    ]
+  },
+  {
+    "arquivo": "11.JPG",
+    "metodo": "moldura_escura",
+    "texto": "MNL3U98",
+    "confianca": 0.7159,
+    "valida": true,
+    "candidatos": [
+      {
+        "texto": "ML3U28",
+        "confianca": 0.713
+      },
+      {
+        "texto": "ML3U98",
+        "confianca": 0.8546
+      },
+      {
+        "texto": "MNL3U98",
+        "confianca": 0.7159
+      },
+      {
+        "texto": "MN3U98",
+        "confianca": 0.9532
+      },
+      {
+        "texto": "M3U98",
+        "confianca": 0.5552
+      },
+      {
+        "texto": "ML3UD8",
+        "confianca": 0.5839
+      },
+      {
+        "texto": "ML3W28",
+        "confianca": 0.3767
+      },
+      {
+        "texto": "MNW98",
+        "confianca": 0.3954
+      },
+      {
+        "texto": "MNL3498",
+        "confianca": 0.511
+      }
+    ]
+  },
+  {
+    "arquivo": "12.JPG",
+    "metodo": "moldura_escura",
+    "texto": "JET7G88",
+    "confianca": 0.9822,
+    "valida": true,
+    "candidatos": [
+      {
+        "texto": "BR",
+        "confianca": 0.9999
+      },
+      {
+        "texto": "BRASIL",
+        "confianca": 0.9432
+      },
+      {
+        "texto": "J07G88",
+        "confianca": 0.241
+      },
+      {
+        "texto": "JET7G88",
+        "confianca": 0.9822
+      },
+      {
+        "texto": "JETZG88",
+        "confianca": 0.8262
+      },
+      {
+        "texto": "JT7G88",
+        "confianca": 0.7344
+      },
+      {
+        "texto": "JTZG88",
+        "confianca": 0.6968
+      },
+      {
+        "texto": "JT2G88",
+        "confianca": 0.4741
+      },
+      {
+        "texto": "L6L88",
+        "confianca": 0.1018
+      },
+      {
+        "texto": "E",
+        "confianca": 0.3754
+      },
+      {
+        "texto": "ET7G88",
+        "confianca": 0.1644
+      },
+      {
+        "texto": "E17G88",
+        "confianca": 0.4509
+      },
+      {
+        "texto": "DRI5IL",
+        "confianca": 0.0823
+      },
+      {
+        "texto": "IBR",
+        "confianca": 0.7784
+      },
+      {
+        "texto": "BRL6L88",
+        "confianca": 0.5508
+      },
+      {
+        "texto": "EJT7G88",
+        "confianca": 0.5549
+      },
+      {
+        "texto": "EJT2G88",
+        "confianca": 0.4248
+      },
+      {
+        "texto": "EET7G88",
+        "confianca": 0.2699
+      }
+    ]
+  },
+  {
+    "arquivo": "13.JPG",
+    "metodo": "moldura_escura",
+    "texto": "ABP8Q82",
+    "confianca": 0.934,
+    "valida": true,
+    "candidatos": [
+      {
+        "texto": "BR",
+        "confianca": 1.0
+      },
+      {
+        "texto": "ABP8082",
+        "confianca": 0.8236
+      },
+      {
+        "texto": "BRAS",
+        "confianca": 0.7853
+      },
+      {
+        "texto": "ABP8Q82",
+        "confianca": 0.934
+      },
+      {
+        "texto": "ABP8Q89",
+        "confianca": 0.7389
+      },
+      {
+        "texto": "4",
+        "confianca": 0.3098
+      },
+      {
+        "texto": "6BR",
+        "confianca": 0.1176
+      },
+      {
+        "texto": "ABPBB2",
+        "confianca": 0.4877
+      },
+      {
+        "texto": "0A491L",
+        "confianca": 0.2373
+      },
+      {
+        "texto": "0A4SIL",
+        "confianca": 0.1739
+      },
+      {
+        "texto": "BR45I",
+        "confianca": 0.3812
+      },
+      {
+        "texto": "ABBP8Q82",
+        "confianca": 0.6275
+      },
+      {
+        "texto": "ABP802",
+        "confianca": 0.5553
+      },
+      {
+        "texto": "JA4ML",
+        "confianca": 0.143
+      },
+      {
+        "texto": "4SIL",
+        "confianca": 0.1554
+      },
+      {
+        "texto": "ABP8024",
+        "confianca": 0.4325
+      }
+    ]
+  },
+  {
+    "arquivo": "14.JPG",
+    "metodo": "moldura_escura",
+    "texto": "PHI8HOO",
+    "confianca": 0.7264,
+    "valida": false,
+    "candidatos": [
+      {
+        "texto": "BR",
+        "confianca": 1.0
+      },
+      {
+        "texto": "BRASIL",
+        "confianca": 0.9885
+      },
+      {
+        "texto": "PHL8HOO",
+        "confianca": 0.7029
+      },
+      {
+        "texto": "PHL8HOQ",
+        "confianca": 0.1532
+      },
+      {
+        "texto": "PHI8HOO",
+        "confianca": 0.7264
+      },
+      {
+        "texto": "ABR",
+        "confianca": 0.2466
+      },
+      {
+        "texto": "HRCAL",
+        "confianca": 0.1147
+      },
+      {
+        "texto": "PH8OO",
+        "confianca": 0.7552
+      },
+      {
+        "texto": "RASIL",
+        "confianca": 0.9787
+      },
+      {
+        "texto": "SBR",
+        "confianca": 0.2497
+      },
+      {
+        "texto": "BRASL",
+        "confianca": 0.9231
+      },
+      {
+        "texto": "PH8HOO",
+        "confianca": 0.6073
+      },
+      {
+        "texto": "PHL8HO",
+        "confianca": 0.6149
+      },
+      {
+        "texto": "BRASI",
+        "confianca": 0.9243
+      },
+      {
+        "texto": "PN8H00",
+        "confianca": 0.2501
+      },
+      {
+        "texto": "AAJIL",
+        "confianca": 0.1569
+      },
+      {
+        "texto": "BR4SIL",
+        "confianca": 0.259
+      },
+      {
+        "texto": "PN8HOD",
+        "confianca": 0.117
+      },
+      {
+        "texto": "PHL8HO0",
+        "confianca": 0.1081
+      },
+      {
+        "texto": "PHL8HOG",
+        "confianca": 0.5234
+      },
+      {
+        "texto": "HERC04",
+        "confianca": 0.0853
+      }
+    ]
+  },
+  {
+    "arquivo": "15.JPG",
+    "metodo": "moldura_escura",
+    "texto": "THYZE12",
+    "confianca": 0.8236,
+    "valida": false,
+    "candidatos": [
+      {
+        "texto": "BR",
+        "confianca": 1.0
+      },
+      {
+        "texto": "THYZE12",
+        "confianca": 0.8236
+      },
+      {
+        "texto": "BRASIL",
+        "confianca": 0.9626
+      },
+      {
+        "texto": "DAASL",
+        "confianca": 0.4754
+      },
+      {
+        "texto": "THYZ19",
+        "confianca": 0.2981
+      },
+      {
+        "texto": "THYZET2",
+        "confianca": 0.3754
+      },
+      {
+        "texto": "SASIL",
+        "confianca": 0.2931
+      },
+      {
+        "texto": "RASI",
+        "confianca": 0.6154
+      },
+      {
+        "texto": "HRATIXL",
+        "confianca": 0.0681
+      },
+      {
+        "texto": "THYZET",
+        "confianca": 0.4552
+      },
+      {
+        "texto": "AFACIX",
+        "confianca": 0.1402
+      },
+      {
+        "texto": "XA",
+        "confianca": 0.0973
+      },
+      {
+        "texto": "DRASIL",
+        "confianca": 0.4127
+      },
+      {
+        "texto": "TMYZE12",
+        "confianca": 0.2132
+      },
+      {
+        "texto": "RAS",
+        "confianca": 0.9349
+      },
+      {
+        "texto": "THYZ12",
+        "confianca": 0.2912
+      },
+      {
+        "texto": "THWZT2",
+        "confianca": 0.2933
+      },
+      {
+        "texto": "BRASVL",
+        "confianca": 0.6258
+      },
+      {
+        "texto": "KASIL",
+        "confianca": 0.8007
+      },
+      {
+        "texto": "TNZ",
+        "confianca": 0.4906
+      },
+      {
+        "texto": "TZD2",
+        "confianca": 0.5711
+      },
+      {
+        "texto": "TIYZ12",
+        "confianca": 0.317
+      },
+      {
+        "texto": "THMZET2",
+        "confianca": 0.2105
+      },
+      {
+        "texto": "TMMZET2",
+        "confianca": 0.2385
+      },
+      {
+        "texto": "BRAIL",
+        "confianca": 0.5952
+      }
+    ]
+  },
+  {
+    "arquivo": "16.JPG",
+    "metodo": "moldura_escura",
+    "texto": "UHK5055",
+    "confianca": 0.9581,
+    "valida": true,
+    "candidatos": [
+      {
+        "texto": "BR",
+        "confianca": 1.0
+      },
+      {
+        "texto": "RASIL",
+        "confianca": 0.7764
+      },
+      {
+        "texto": "WK5O55",
+        "confianca": 0.6745
+      },
+      {
+        "texto": "WHK5055",
+        "confianca": 0.8966
+      },
+      {
+        "texto": "UHK5055",
+        "confianca": 0.9581
+      },
+      {
+        "texto": "CAI",
+        "confianca": 0.1513
+      },
+      {
+        "texto": "CLASFL",
+        "confianca": 0.07
+      },
+      {
+        "texto": "WK5055",
+        "confianca": 0.7733
+      },
+      {
+        "texto": "CASFL",
+        "confianca": 0.0879
+      },
+      {
+        "texto": "IASIL",
+        "confianca": 0.2116
+      },
+      {
+        "texto": "WAK5055",
+        "confianca": 0.4662
+      },
+      {
+        "texto": "8R",
+        "confianca": 0.2459
+      },
+      {
+        "texto": "45IL",
+        "confianca": 0.0751
+      },
+      {
+        "texto": "ASIL",
+        "confianca": 0.1329
+      }
+    ]
+  },
+  {
+    "arquivo": "17.JPG",
+    "metodo": "moldura_escura",
+    "texto": "NZQ3M77",
+    "confianca": 0.9876,
+    "valida": true,
+    "candidatos": [
+      {
+        "texto": "NZQ3ZZ",
+        "confianca": 0.7867
+      },
+      {
+        "texto": "NZQ3MZ7",
+        "confianca": 0.9626
+      },
+      {
+        "texto": "NZQ3NZZ",
+        "confianca": 0.499
+      },
+      {
+        "texto": "NZQ3NZ7",
+        "confianca": 0.6421
+      },
+      {
+        "texto": "NZQ3177",
+        "confianca": 0.6909
+      },
+      {
+        "texto": "NZQ3M77",
+        "confianca": 0.9876
+      },
+      {
+        "texto": "BR",
+        "confianca": 0.9937
+      },
+      {
+        "texto": "NZO377",
+        "confianca": 0.6978
+      },
+      {
+        "texto": "AR",
+        "confianca": 0.4687
+      },
+      {
+        "texto": "NZQM77",
+        "confianca": 0.4181
+      }
+    ]
+  },
+  {
+    "arquivo": "18.JPG",
+    "metodo": "moldura_escura",
+    "texto": "XDA5E50",
+    "confianca": 0.2017,
+    "valida": true,
+    "candidatos": [
+      {
+        "texto": "BR",
+        "confianca": 0.9999
+      },
+      {
+        "texto": "BRASIL",
+        "confianca": 0.9097
+      },
+      {
+        "texto": "XDA5E5O",
+        "confianca": 0.6341
+      },
+      {
+        "texto": "XDASESU",
+        "confianca": 0.8949
+      },
+      {
+        "texto": "XDASESO",
+        "confianca": 0.7021
+      },
+      {
+        "texto": "ASL",
+        "confianca": 0.0945
+      },
+      {
+        "texto": "XDA5E50",
+        "confianca": 0.2017
+      },
+      {
+        "texto": "XBA5E5W",
+        "confianca": 0.5032
+      },
+      {
+        "texto": "BASE5W",
+        "confianca": 0.2348
+      },
+      {
+        "texto": "0RASIL",
+        "confianca": 0.7649
+      },
+      {
+        "texto": "XDA5E5Q",
+        "confianca": 0.2821
+      }
+    ]
+  },
+  {
+    "arquivo": "19.JPG",
+    "metodo": "moldura_escura",
+    "texto": "BR",
+    "confianca": 0.9998,
+    "valida": false,
+    "candidatos": [
+      {
+        "texto": "BR",
+        "confianca": 0.9998
+      },
+      {
+        "texto": "2314",
+        "confianca": 0.374
+      },
+      {
+        "texto": "8R",
+        "confianca": 0.4377
+      },
+      {
+        "texto": "FR",
+        "confianca": 0.1237
+      },
+      {
+        "texto": "KR",
+        "confianca": 0.7698
+      }
+    ]
+  },
+  {
+    "arquivo": "20.JPG",
+    "metodo": "moldura_escura",
+    "texto": "TGGIDGZ",
+    "confianca": 0.359,
+    "valida": false,
+    "candidatos": [
+      {
+        "texto": "BR",
+        "confianca": 0.999
+      },
+      {
+        "texto": "BRAS",
+        "confianca": 0.7033
+      },
+      {
+        "texto": "T651044",
+        "confianca": 0.0515
+      },
+      {
+        "texto": "RR",
+        "confianca": 0.9999
+      },
+      {
+        "texto": "T66I02",
+        "confianca": 0.3765
+      },
+      {
+        "texto": "1EE222",
+        "confianca": 0.1797
+      },
+      {
+        "texto": "I6WZ",
+        "confianca": 0.5545
+      },
+      {
+        "texto": "ILIVZ",
+        "confianca": 0.1693
+      },
+      {
+        "texto": "IEJDLZ",
+        "confianca": 0.1462
+      },
+      {
+        "texto": "T6GDZ",
+        "confianca": 0.3445
+      },
+      {
+        "texto": "JR",
+        "confianca": 0.3051
+      },
+      {
+        "texto": "1GGI04",
+        "confianca": 0.2067
+      },
+      {
+        "texto": "GR",
+        "confianca": 0.1136
+      },
+      {
+        "texto": "JR2",
+        "confianca": 0.4053
+      },
+      {
+        "texto": "TGGIDGZ",
+        "confianca": 0.359
+      },
+      {
+        "texto": "T47W4",
+        "confianca": 0.2659
+      },
+      {
+        "texto": "BRANL",
+        "confianca": 0.149
+      },
+      {
+        "texto": "G404",
+        "confianca": 0.1523
+      },
+      {
+        "texto": "A5IL",
+        "confianca": 0.1161
+      },
+      {
+        "texto": "BI",
+        "confianca": 0.0939
+      },
+      {
+        "texto": "7",
+        "confianca": 0.6613
+      },
+      {
+        "texto": "24424",
+        "confianca": 0.1991
+      },
+      {
+        "texto": "0RASIL",
+        "confianca": 0.0686
+      },
+      {
+        "texto": "T",
+        "confianca": 0.9971
+      },
+      {
+        "texto": "BRASUL",
+        "confianca": 0.2368
+      },
+      {
+        "texto": "04744",
+        "confianca": 0.2229
+      },
+      {
+        "texto": "R67L",
+        "confianca": 0.1449
+      }
+    ]
+  }
+]

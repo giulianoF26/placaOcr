@@ -1,0 +1,182 @@
+[
+  {
+    "arquivo": "1.JPG",
+    "metodo": "alto_contraste",
+    "texto": "",
+    "confianca": 0.0,
+    "valida": false,
+    "candidatos": [],
+    "nota": "EasyOCR requer PyTorch. Execute run_easyocr.py em ambiente com EasyOCR instalado."
+  },
+  {
+    "arquivo": "2.JPG",
+    "metodo": "moldura_escura",
+    "texto": "",
+    "confianca": 0.0,
+    "valida": false,
+    "candidatos": [],
+    "nota": "EasyOCR requer PyTorch. Execute run_easyocr.py em ambiente com EasyOCR instalado."
+  },
+  {
+    "arquivo": "3.JPG",
+    "metodo": "moldura_escura",
+    "texto": "",
+    "confianca": 0.0,
+    "valida": false,
+    "candidatos": [],
+    "nota": "EasyOCR requer PyTorch. Execute run_easyocr.py em ambiente com EasyOCR instalado."
+  },
+  {
+    "arquivo": "4.JPG",
+    "metodo": "moldura_escura",
+    "texto": "",
+    "confianca": 0.0,
+    "valida": false,
+    "candidatos": [],
+    "nota": "EasyOCR requer PyTorch. Execute run_easyocr.py em ambiente com EasyOCR instalado."
+  },
+  {
+    "arquivo": "5.JPG",
+    "metodo": "moldura_escura",
+    "texto": "",
+    "confianca": 0.0,
+    "valida": false,
+    "candidatos": [],
+    "nota": "EasyOCR requer PyTorch. Execute run_easyocr.py em ambiente com EasyOCR instalado."
+  },
+  {
+    "arquivo": "6.JPG",
+    "metodo": "moldura_escura",
+    "texto": "",
+    "confianca": 0.0,
+    "valida": false,
+    "candidatos": [],
+    "nota": "EasyOCR requer PyTorch. Execute run_easyocr.py em ambiente com EasyOCR instalado."
+  },
+  {
+    "arquivo": "7.JPG",
+    "metodo": "moldura_escura",
+    "texto": "",
+    "confianca": 0.0,
+    "valida": false,
+    "candidatos": [],
+    "nota": "EasyOCR requer PyTorch. Execute run_easyocr.py em ambiente com EasyOCR instalado."
+  },
+  {
+    "arquivo": "8.JPG",
+    "metodo": "moldura_escura",
+    "texto": "",
+    "confianca": 0.0,
+    "valida": false,
+    "candidatos": [],
+    "nota": "EasyOCR requer PyTorch. Execute run_easyocr.py em ambiente com EasyOCR instalado."
+  },
+  {
+    "arquivo": "9.JPG",
+    "metodo": "moldura_escura",
+    "texto": "",
+    "confianca": 0.0,
+    "valida": false,
+    "candidatos": [],
+    "nota": "EasyOCR requer PyTorch. Execute run_easyocr.py em ambiente com EasyOCR instalado."
+  },
+  {
+    "arquivo": "10.JPG",
+    "metodo": "moldura_escura",
+    "texto": "",
+    "confianca": 0.0,
+    "valida": false,
+    "candidatos": [],
+    "nota": "EasyOCR requer PyTorch. Execute run_easyocr.py em ambiente com EasyOCR instalado."
+  },
+  {
+    "arquivo": "11.JPG",
+    "metodo": "moldura_escura",
+    "texto": "",
+    "confianca": 0.0,
+    "valida": false,
+    "candidatos": [],
+    "nota": "EasyOCR requer PyTorch. Execute run_easyocr.py em ambiente com EasyOCR instalado."
+  },
+  {
+    "arquivo": "12.JPG",
+    "metodo": "moldura_escura",
+    "texto": "",
+    "confianca": 0.0,
+    "valida": false,
+    "candidatos": [],
+    "nota": "EasyOCR requer PyTorch. Execute run_easyocr.py em ambiente com EasyOCR instalado."
+  },
+  {
+    "arquivo": "13.JPG",
+    "metodo": "moldura_escura",
+    "texto": "",
+    "confianca": 0.0,
+    "valida": false,
+    "candidatos": [],
+    "nota": "EasyOCR requer PyTorch. Execute run_easyocr.py em ambiente com EasyOCR instalado."
+  },
+  {
+    "arquivo": "14.JPG",
+    "metodo": "moldura_escura",
+    "texto": "",
+    "confianca": 0.0,
+    "valida": false,
+    "candidatos": [],
+    "nota": "EasyOCR requer PyTorch. Execute run_easyocr.py em ambiente com EasyOCR instalado."
+  },
+  {
+    "arquivo": "15.JPG",
+    "metodo": "moldura_escura",
+    "texto": "",
+    "confianca": 0.0,
+    "valida": false,
+    "candidatos": [],
+    "nota": "EasyOCR requer PyTorch. Execute run_easyocr.py em ambiente com EasyOCR instalado."
+  },
+  {
+    "arquivo": "16.JPG",
+    "metodo": "moldura_escura",
+    "texto": "",
+    "confianca": 0.0,
+    "valida": false,
+    "candidatos": [],
+    "nota": "EasyOCR requer PyTorch. Execute run_easyocr.py em ambiente com EasyOCR instalado."
+  },
+  {
+    "arquivo": "17.JPG",
+    "metodo": "moldura_escura",
+    "texto": "",
+    "confianca": 0.0,
+    "valida": false,
+    "candidatos": [],
+    "nota": "EasyOCR requer PyTorch. Execute run_easyocr.py em ambiente com EasyOCR instalado."
+  },
+  {
+    "arquivo": "18.JPG",
+    "metodo": "moldura_escura",
+    "texto": "",
+    "confianca": 0.0,
+    "valida": false,
+    "candidatos": [],
+    "nota": "EasyOCR requer PyTorch. Execute run_easyocr.py em ambiente com EasyOCR instalado."
+  },
+  {
+    "arquivo": "19.JPG",
+    "metodo": "moldura_escura",
+    "texto": "",
+    "confianca": 0.0,
+    "valida": false,
+    "candidatos": [],
+    "nota": "EasyOCR requer PyTorch. Execute run_easyocr.py em ambiente com EasyOCR instalado."
+  },
+  {
+    "arquivo": "20.JPG",
+    "metodo": "moldura_escura",
+    "texto": "",
+    "confianca": 0.0,
+    "valida": false,
+    "candidatos": [],
+    "nota": "EasyOCR requer PyTorch. Execute run_easyocr.py em ambiente com EasyOCR instalado."
+  }
+]

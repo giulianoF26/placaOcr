@@ -1,0 +1,34 @@
+
+======================================================================
+  RESULTADOS – TESSERACT OCR  |  Placas Mercosul BR
+======================================================================
+#    Arquivo          Placa Lida   Válida?  Método
+----------------------------------------------------------------------
+1    1.JPG            LHALTSYD     NÃO      alto_contraste
+2    2.JPG            LNEV1CG8I    NÃO      moldura_escura
+3    3.JPG            LYZ2218      SIM      moldura_escura
+4    4.JPG            PTRTFS       NÃO      moldura_escura
+5    5.JPG            O9688SZ      NÃO      moldura_escura
+6    6.JPG            TYLSX75      NÃO      moldura_escura
+7    7.JPG            AXQ2I95      SIM      moldura_escura
+8    8.JPG            XHY6U29      SIM      moldura_escura
+9    9.JPG            AOA4I16      SIM      moldura_escura
+10   10.JPG           PBUZE22      NÃO      moldura_escura
+11   11.JPG           ANL3U98      SIM      moldura_escura
+12   12.JPG           JET7G88      SIM      moldura_escura
+13   13.JPG           ABP8Q89      SIM      moldura_escura
+14   14.JPG           PHI8HGG      NÃO      moldura_escura
+15   15.JPG           THY7E19      SIM      moldura_escura
+16   16.JPG           UHK5055      SIM      moldura_escura
+17   17.JPG           NZQ3M77      SIM      moldura_escura
+18   18.JPG           XDASESO      NÃO      moldura_escura
+19   19.JPG           BERONA       NÃO      moldura_escura
+20   20.JPG           TRGIDS4      NÃO      moldura_escura
+----------------------------------------------------------------------
+Total: 20 imagens  |  Válidas: 10/20
+======================================================================
+
+OBSERVAÇÃO: As imagens possuem marca d'água digital ('BRASIL MERCOSUL'
+repetida em tom médio-cinza) sobreposta aos caracteres da placa.
+Isso interfere na binarização e pode reduzir a acurácia do OCR.
+======================================================================

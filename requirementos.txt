@@ -1,0 +1,11 @@
+# Core – ambos os pipelines
+opencv-python>=4.8.0
+numpy>=1.24.0
+Pillow>=10.0.0
+
+# Tesseract OCR (motor externo: sudo apt install tesseract-ocr)
+pytesseract>=0.3.10
+
+# EasyOCR (requer PyTorch – instale conforme sua plataforma)
+# https://pytorch.org/get-started/locally/
+easyocr>=1.7.0

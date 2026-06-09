@@ -1,0 +1,34 @@
+
+==========================================================================
+  RESULTADOS – EASYOCR  |  Placas Mercosul BR
+==========================================================================
+#    Arquivo          Placa Lida   Conf.    Válida?  Método
+--------------------------------------------------------------------------
+1    1.JPG            IFA1T95      0.879    SIM      alto_contraste
+2    2.JPG            NEVTCO8      0.787    NÃO      moldura_escura
+3    3.JPG            IVZ2Z18      0.957    SIM      moldura_escura
+4    4.JPG            QOW9N47      0.549    SIM      moldura_escura
+5    5.JPG            USI3213      0.592    SIM      moldura_escura
+6    6.JPG            BRC3X75      0.636    SIM      moldura_escura
+7    7.JPG            BRG2525      0.849    SIM      moldura_escura
+8    8.JPG            XHY6429      0.918    SIM      moldura_escura
+9    9.JPG            AOA4J16      0.958    SIM      moldura_escura
+10   10.JPG           PDU7G22      0.922    SIM      moldura_escura
+11   11.JPG           MNL3U98      0.716    SIM      moldura_escura
+12   12.JPG           JET7G88      0.982    SIM      moldura_escura
+13   13.JPG           ABP8Q82      0.934    SIM      moldura_escura
+14   14.JPG           PHI8HOO      0.726    NÃO      moldura_escura
+15   15.JPG           THYZE12      0.824    NÃO      moldura_escura
+16   16.JPG           UHK5055      0.958    SIM      moldura_escura
+17   17.JPG           NZQ3M77      0.988    SIM      moldura_escura
+18   18.JPG           XDA5E50      0.202    SIM      moldura_escura
+19   19.JPG           BR           1.000    NÃO      moldura_escura
+20   20.JPG           TGGIDGZ      0.359    NÃO      moldura_escura
+--------------------------------------------------------------------------
+Total: 20 imagens  |  Válidas: 15/20
+==========================================================================
+
+EasyOCR usa CRAFT (detector) + CRNN (reconhecedor neural).
+É mais robusto a distorções, variações de fonte e marcas d'água.
+Requer PyTorch. GPU acelera significativamente o processamento.
+==========================================================================

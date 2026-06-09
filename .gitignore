@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Debug outputs (optional to commit)
+results_tesseract/debug/
+results_easyocr/debug/
+debug_crops/
+debug_*.jpg
+
+# EasyOCR model cache
+~/.EasyOCR/
+
+# OS
+.DS_Store
+Thumbs.db

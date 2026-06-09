@@ -1,0 +1,49 @@
+
+==========================================================================
+  RESULTADOS – EASYOCR  |  Placas Mercosul BR
+==========================================================================
+ATENÇÃO: EasyOCR não está disponível neste ambiente de execução.
+Requer PyTorch instalado. Para executar:
+  pip install easyocr torch torchvision
+  python run_easyocr.py --images ./images --output ./results_easyocr
+
+A estrutura do pipeline EasyOCR é idêntica ao Tesseract:
+  1. Detecção da placa (moldura escura / faixa azul / alto contraste)
+  2. Pré-processamento (threshold adaptativo, CLAHE+Otsu, thresh fixo)
+  3. OCR via EasyOCR (CRAFT detector + CRNN reconhecedor)
+  4. Fusão de fragmentos e seleção por confiança
+
+Diferenças esperadas EasyOCR vs Tesseract:
+  + EasyOCR é mais robusto a fontes não-padrão e distorção de perspectiva
+  + Retorna confiança por leitura, facilitando seleção do melhor resultado
+  + Lida melhor com marcas d'água por processar a imagem colorida
+  - Mais lento sem GPU (modelo neural vs heurísticas do Tesseract)
+  - Requer mais dependências (PyTorch, ~2 GB de espaço em disco)
+
+Resultados do pipeline Tesseract (referência):
+--------------------------------------------------------------------------
+#    Arquivo          Tesseract    Válida?  Método
+--------------------------------------------------------------------------
+1    1.JPG            LHALIYS      NÃO      alto_contraste
+2    2.JPG            LNEVACGSI    NÃO      moldura_escura
+3    3.JPG            LYZ2218      SIM      moldura_escura
+4    4.JPG            PTMTF        NÃO      moldura_escura
+5    5.JPG            SQFSZ73      NÃO      moldura_escura
+6    6.JPG            EYLSX7D      NÃO      moldura_escura
+7    7.JPG            AXQ2I95      SIM      moldura_escura
+8    8.JPG            XHY6U29      SIM      moldura_escura
+9    9.JPG            AOA4I16      SIM      moldura_escura
+10   10.JPG           DU7E22I      NÃO      moldura_escura
+11   11.JPG           HNL3U98      SIM      moldura_escura
+12   12.JPG           JET7G88      SIM      moldura_escura
+13   13.JPG           ABP8Q89      SIM      moldura_escura
+14   14.JPG           PHI8HGG      NÃO      moldura_escura
+15   15.JPG           THY7E19      SIM      moldura_escura
+16   16.JPG           UHK5055      SIM      moldura_escura
+17   17.JPG           NZQ3M77      SIM      moldura_escura
+18   18.JPG           XDASESO      NÃO      moldura_escura
+19   19.JPG           BERONAA      NÃO      moldura_escura
+20   20.JPG           TRGIDS4      NÃO      moldura_escura
+--------------------------------------------------------------------------
+Total: 20 imagens  |  Válidas (Tesseract): 10/20
+==========================================================================
